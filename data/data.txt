@@ -1,0 +1,103 @@
+PIMCO Balanced Index
+A quantitative, rules-based index designed to provide upside by dynamically allocating across U.S. equity and bond markets.
+PIMCO Equity Fusion Index
+A rules-based equity index designed to provide upside through a diversified mix of equity markets.
+PIMCO Global Optima Index
+A quantitative, rules-based index designed to provide upside through a diversified range of global equity and U.S. fixed income markets.
+
+PIMCO Tactical Balanced Index
+An index designed to provide dynamic exposure to stocks and bonds within a quantitative framework. It aims to provide a stable risk profile through constantly 
+evolving equity and interest rate market environments.
+
+PIMCO Tactical Balanced ER Index
+An index designed to provide dynamic exposure to stocks and bonds within a quantitative framework. It aims to provide a stable risk profile through constantly evolving equity and interest rate market environments.
+
+PIMCO US Fundamental Balanced Index
+A rules-based index that seeks to maximize risk-adjusted return by allocating to a fundamentally weighted, low volatility U.S. equity index and U.S. Treasuries.
+
+PIMCO as a general matter provides services to qualified institutions, financial intermediaries and institutional investors. Individual investors should contact their own financial professional to determine the most appropriate investment options for their financial situation. This material contains the current opinions of the manager and such opinions are subject to change without notice. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. No part of this material may be reproduced in any form, or referred to in any other publication, without express written permission. PIMCO is a trademark of Allianz Asset Management of America LLC in the United States and throughout the world. ©2023, PIMCO
+
+The Index is the property of Pacific Investment Management Company LLC ("PIMCO"). The Index will be calculated independently from PIMCO. It is not possible to invest directly in an unmanaged index.
+
+The information provided herein is not directed at any investor or category of investors and is provided solely as general information about our products and services and to otherwise provide general investment education. No information contained herein should be regarded as a suggestion to engage in or refrain from any investment-related course of action as none of PIMCO nor any of its affiliates is undertaking to provide investment advice, act as an adviser to any plan or entity subject to the Employee Retirement Income Security Act of 1974, as amended, individual retirement account or individual retirement annuity, or give advice in a fiduciary capacity with respect to the materials presented herein. If you are an individual retirement investor, contact your financial advisor or other fiduciary unrelated to PIMCO about whether any given investment idea, strategy, product or service described herein may be appropriate for your circumstances.
+
+DESCRIPTION	% OF ASSETS	SECURITY TYPE	COUPON	MATURITY
+US DOLLAR	25.28	CURRENCY - FORWARD	0.00	-
+FNMA TBA 30 YR 6 SINGLE FAMILY MORTGAGE	11.07	MORTGAGE BACKED SECURITIES	6.00	08/14/2053
+FNMA TBA 30 YR 5.5 SINGLE FAMILY MORTGAGE	10.23	MORTGAGE BACKED SECURITIES	5.50	08/14/2053
+FNMA TBA 30 YR 5 SINGLE FAMILY MORTGAGE	9.47	MORTGAGE BACKED SECURITIES	5.00	08/14/2053
+FNMA TBA 30 YR 6 SINGLE FAMILY MORTGAGE	8.13	MORTGAGE BACKED SECURITIES	6.00	07/13/2053
+US TREASURY N/B 05/43 3.875	5.67	GOVERNMENT	3.88	05/15/2043
+US TREASURY N/B 05/33 3.375	3.09	GOVERNMENT	3.38	05/15/2033
+US TREASURY N/B 06/26 4.125	1.67	GOVERNMENT	4.13	06/15/2026
+JPMORGAN CHASE + CO SR UNSECURED 06/34 VAR	1.09	CORPORATE BONDS	5.35	06/01/2034
+BANK OF AMERICA CORP SR UNSECURED 04/34 VAR	1.07	CORPORATE BONDS	5.29	04/25/2034
+
+COUNTRIES	MARKET VALUE WEIGHT	DURATION WEIGHT
+UNITED STATES	159.29	92.20
+CANADA	2.14	2.14
+UNITED KINGDOM	1.19	1.39
+EM INDEX PRODUCT	0.73	-0.01
+SWITZERLAND	0.66	0.81
+JAPAN	0.55	0.76
+SPAIN	0.49	0.54
+FRANCE	0.46	0.41
+IRELAND	0.45	0.09$
+
+FUND INFORMATION
+As of 07/12/2023
+DATA POINT NAME	DATA POINT VALUE
+TYPE	Active
+DURATION CATEGORY	Intermediate
+CUSIP	72201R585
+Inception Date	06/21/2023
+Shares Outstanding	2,600,000
+Total Net Assets	$65,220,952.45
+Daily Trading Volume (dollar notional)	$183,494.40
+Annualized Volatility	0.00%
+
+FUND FACTS
+NAV PRICE
+$25.22
+1 DAY RETURN
+$0.14 0.56%
+As of 07/13/2023
+MARKET PRICE
+$25.31
+1 DAY RETURN
+$0.16 0.64%
+As of 07/13/2023
+PREMIUM / DISCOUNT
+0.28%
+As of 07/13/2023
+MEDIAN BID/ASK SPREAD
+0.08%
+
+
+PYLD
+Multisector Bond Active Exchange-Traded Fund
+
+
+WHY INVEST IN THIS FUND
+Attractive Yield
+Seeks to achieve attractive risk-adjusted yield through diversified multisector bond exposure.
+
+Holistic Approach To Portfolio Construction
+Obtain the full breadth of PIMCO’s market views and fixed income expertise in a single ETF—such as, corporates (investment grade, high yield, preferreds, leveraged loans), 
+mortgages (agency, non-agency, CMBS), Sovereigns (Developed Markets/Emerging Markets ).
+
+Established Fixed Income ETF Partner
+Work with a leader in multisector bond investing, with 10+ years of active bond ETF management and 50+ years of active bond management.
+
+PORTFOLIO INFORMATION
+258
+NUMBER OF HOLDINGS
+As of 07/12/2023
+9.58 Years
+EFFECTIVE MATURITYAs of 07/12/2023
+5.33 Years
+EFFECTIVE DURATIONAs of 07/12/2023
+-
+EST. YIELD TO MATURITY
+
+
